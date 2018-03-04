@@ -1,2 +1,2 @@
 # codecademy-note
-basic control flow
+codecademy-if else and function lesson copy
